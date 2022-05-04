@@ -1,5 +1,5 @@
 # Go-Typing-Game
-Golangで作られたタイピングゲーム
+Golangで作られたタイピングゲーム(ゴミ)
 
 ## How to Use
 
